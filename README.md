@@ -37,7 +37,6 @@ Classifier-based statistical test for detecting covariate shift. Splits data int
 ## How to Run
 
 ```bash
-pip install numpy scipy scikit-learn matplotlib
 python importance_weights.py
 python evaluation_bounds.py
 python lipschitz_evaluation_bound.py
